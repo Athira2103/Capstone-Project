@@ -9,6 +9,7 @@ optimize the supply quantity in each and every warehouse in the entire country
 ![image](https://github.com/Athira2103/Capstone-Project/assets/31879762/f6b69d53-aaeb-4a46-8d5b-ef0808b6fc95)
 
 **GOALS**
+
 The objective of this exercise is to build a model, using historical data that will determine an
 optimum weight of the product to be shipped each time from the respective warehouse.
 1. Focus on all steps of data science (EDA, data processing, model, evaluation, charts)
