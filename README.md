@@ -65,15 +65,23 @@ Data preprocessing involves preparing the data for modeling by encoding categori
 Five models were built using the following machine learning algorithms:
 
 Linear Regression
+
 Decision Tree Regressor
+
 Random Forest Regressor
+
 Bagging Regressor
+
 AdaBoost Regressor
+
 Gradient Boosting Regressor
+
 The models were fitted to the training data and evaluated using the testing data.
 
-Evaluation
+**Evaluation
+**
 The performance of the regression models is assessed using appropriate evaluation metrics. This step helps determine which model is the most effective in optimizing the supply chain.
 
-Conclusion
+**Conclusion
+**
 In conclusion, this project aims to enhance supply chain management through supervised regression analysis. By leveraging the power of data preprocessing, feature engineering, and regression modeling, we can uncover valuable insights and improve the efficiency of the supply chain. The project's findings and models will have practical applications in real-world supply chain optimization.
