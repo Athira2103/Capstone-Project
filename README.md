@@ -62,7 +62,7 @@ The EDA process was conducted to get a better understanding of the dataset and t
 Data preprocessing involves preparing the data for modeling by encoding categorical variables, normalizing data, and making it ready for regression analysis.
 
 **Model Building and Evaluation**
-Five models were built using the following machine learning algorithms:
+Few models were built using the following machine learning algorithms:
 
 Linear Regression
 
